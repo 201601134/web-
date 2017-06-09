@@ -12,9 +12,9 @@ a{
 	text-decoration: none;
 	color: #333;
 }
-p{
+/*p{
 	text-indent: 2em;
-}
+}*/
 .aa{
 	width: 200px;
 	height: 20px;
@@ -26,6 +26,10 @@ p{
 .logo{
 	width: 1000px;
 	margin: 0px auto;
+}
+.change{
+	float: left;
+	margin: 10px;
 }
 .menu{
 	width: 100%;
