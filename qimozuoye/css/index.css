@@ -326,6 +326,40 @@ li{
 	list-style: disc;
 	list-style-position: inside;
 }
+.last{
+	margin-top: 20px;
+}
+.last .last_left{
+	width: 600px;
+	height: 450px;
+	float: left;
+}
+.last .last_left ul {
+	line-height: 25px;
+	width: 630px;
+	margin-top: 10px;
+	background-color: #87cefa;
+}
+.last .last_left ul li span{
+	float: right;
+	color: red;
+}
+.last .last_left img{
+	width: 630px;
+	height: 250px;
+}
+.last .last_right{
+	width: 240px;
+	height: 255px;
+	margin-top: 10px;
+	margin-left: 20px;
+	line-height: 30px;
+	background-color: #87cef1;
+	border: 1px solid #87cefa;
+	position: absolute;
+	top: 1090px;
+	left: 770px;
+}
 .footer {
 	width:100%;
 	padding:30px 0 0 0;

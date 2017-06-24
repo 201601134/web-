@@ -190,6 +190,32 @@ li{
 .next{
 	margin-top: 10px;
 }
+.content_bottom{
+	width: 1000px;
+	float: left;
+	margin-top: 10px;
+	overflow: hidden;
+}
+.content_bottom_top input{
+	color: #fff;
+	margin-right:0px;
+	font-weight: bolder;
+	background-color: #87cefa;
+	float: right;
+}
+.content_bottom .pinglun {
+	margin-top: 20px;
+	margin-bottom: 10px;
+	line-height: 25px;
+	border: 1px solid #87cefa;
+}
+.content_bottom .pinglun .c a{
+	color: #999;
+}
+.content_bottom .pinglun ul li span{
+	float: right;
+	color: #999;
+}
 
 
 .footer {

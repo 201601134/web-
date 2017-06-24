@@ -131,6 +131,9 @@ li{
 	margin-top: 40px;
 	border: 1px solid #666;
 }
+.list_right span{
+	float: right;
+}
 .list_right img{
 	margin: 25px;
 	border: 1px solid #666;
